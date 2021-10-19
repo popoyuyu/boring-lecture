@@ -9,6 +9,7 @@
 * _HTML_
 * _CSS_
 * _Markdown_
+* _JavaScript_
 
 
 ## Description
