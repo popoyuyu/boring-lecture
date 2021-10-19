@@ -1,5 +1,5 @@
 .intro {
-  color: bisque;
+  color: black;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-style: italic;
 }
@@ -17,4 +17,13 @@ img.intro{
   border: blue;
   border-radius: 10%;
   outline: solid;
+}
+
+.highlight {
+  cursor: pointer;
+}
+
+.yellow-background {
+  background-color: yellow;
+  border: solid black;
 }
